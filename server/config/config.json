@@ -1,0 +1,18 @@
+{
+    "test": {
+        "PORT": "3000",
+        "MONGODB_URI": "mongodb://127.0.0.1:27017/RoleAppTest",
+        "JWT_SECRET": "",
+        "SESSION_SECRET": "",
+        "VAPID_PUBLIC": "",
+        "VAPID_PRIVATE": ""
+    },
+    "development": {
+        "PORT": "3000",
+        "MONGODB_URI": "mongodb://127.0.0.1:27017/RoleApp",
+        "JWT_SECRET": "",
+        "SESSION_SECRET": "",
+        "VAPID_PUBLIC": "",
+        "VAPID_PRIVATE": ""
+    }
+}

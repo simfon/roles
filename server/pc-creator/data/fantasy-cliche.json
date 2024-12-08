@@ -1,0 +1,92 @@
+{
+  "Spada": [
+    {
+      "name": "Guerriero {stanco/coraggioso}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Soldato {infelice/ligio/patriotico/pacifista}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Mercenario {prezzolato/cinico}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Duellante {spadaccino/sleale}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Monaco {spezzaossa/agile/pacifista}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Nobile {cavaliere/paladino/arricchito}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Rissaiolo {fabbro/carpentiere/ubriacone}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    }
+  ],
+  "Cappa": [
+    {
+      "name": "Ladro {silenzioso/agile/sfortunato}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Ranger {di montagna/dei boschi/animalista}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Assassino {letale/distratto}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Bardo {cantante/musicista/trovatore}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Pirata {di successo/d'acqua dolce}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Farabutto {dei bassi fondi/rapinatore}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Spia {avvelenatrice/da letto}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    }
+  ],
+  "Spirito": [
+    {
+      "name": "Mago {improvvisato/sapiente/narcolettico}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "{Piromante/Negromante/Psicomante}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Chierico {ligio/infedele/oscuro/curatore}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Veggente {contadino/paesano/cartomante}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Alchimista {sapiente/improvvisato}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Druido delle Foreste {Sacre/Dilapidate}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    },
+    {
+      "name": "Sacerdote di un Dio {benevolo/malevolo}",
+      "text": "Un esempio con template {Lorem/Ipsum/Dixit}"
+    }
+  ]
+}
